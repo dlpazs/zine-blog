@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/zine-blog/static/css/main.b100e6da.chunk.css",
-    "main.js": "/zine-blog/static/js/main.669bad94.chunk.js",
-    "main.js.map": "/zine-blog/static/js/main.669bad94.chunk.js.map",
+    "main.js": "/zine-blog/static/js/main.f6edd37f.chunk.js",
+    "main.js.map": "/zine-blog/static/js/main.f6edd37f.chunk.js.map",
     "runtime-main.js": "/zine-blog/static/js/runtime-main.157f8bc4.js",
     "runtime-main.js.map": "/zine-blog/static/js/runtime-main.157f8bc4.js.map",
     "static/js/2.b59f3f6c.chunk.js": "/zine-blog/static/js/2.b59f3f6c.chunk.js",
     "static/js/2.b59f3f6c.chunk.js.map": "/zine-blog/static/js/2.b59f3f6c.chunk.js.map",
     "index.html": "/zine-blog/index.html",
-    "precache-manifest.7c6412452f071359a3c13ebef31bc87d.js": "/zine-blog/precache-manifest.7c6412452f071359a3c13ebef31bc87d.js",
+    "precache-manifest.1e18845f1f391fc4e7a65961d761fb3e.js": "/zine-blog/precache-manifest.1e18845f1f391fc4e7a65961d761fb3e.js",
     "service-worker.js": "/zine-blog/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/zine-blog/static/css/main.b100e6da.chunk.css.map",
     "static/media/logo.svg": "/zine-blog/static/media/logo.25bf045c.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.157f8bc4.js",
     "static/js/2.b59f3f6c.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.669bad94.chunk.js"
+    "static/js/main.f6edd37f.chunk.js"
   ]
 }
